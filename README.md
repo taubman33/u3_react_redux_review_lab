@@ -11,7 +11,7 @@ Now that we have worked with the React Redux library, lets put it to use in crea
 - A Full Stack MERN app built with React Redux, Express, and MongoDB
 - Your site should display posts of popular travel locations, which users should be able to comment and add reviews to
 - User interactivity with forms and buttons on our Front End to add reviews 
-- A back end with at least 2 models (posts & comments), and populate the data as needed
+- A back end with at least 2 models (posts & comments)
 
 
 ## Recommendations
