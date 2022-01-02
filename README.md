@@ -18,4 +18,7 @@ Now that we have worked with the React Redux library, lets put it to use in crea
 - Start with 4-5 initial travel locations, and try to use Faker to populate them with reviews
 - Focus on the Read methods first, then work on Create, Update, and Delete once we have the Front and Back ends connected
 - Be sure to use your notes and previous labs as a resource to help you through this challenge
+- ERD's, Component Hierarchy Diagrams, and calls to Insomnia will not be required, but will be very, very highly recommended
+
+### As always, we will be happy to help you out with any strange errors & bugs that you may experience. But as we move into the 2nd half of the class, we want you to work on your debugging and troubleshooting skills, and in your ability to read documentation and examples online.  
 
