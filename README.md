@@ -13,6 +13,8 @@ Now that we have worked with the React Redux library, lets put it to use in crea
 - User interactivity with forms and buttons on our Front End to add reviews, comments, and likes 
 - A back end with at least 2 models (posts & comments)
 
+- Though we are working in groups, we want all group members coding along and building up their apps, not having one person in the group code while the others sit back. By the end of the day each person should have a completed full stack project. 
+
 
 ## Recommendations
 
